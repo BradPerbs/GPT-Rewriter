@@ -1,6 +1,6 @@
 # ChatGPT AutoRewrite WordPress Plugin
 
-![Plugin Logo](https://i.vgy.me/h86UOb.png)
+![Plugin Logo](https://asganaflow.s-ul.eu/prcm3VBt)
 ![Plugin Logo](https://i.vgy.me/afC6BA.png)
 
 The ChatGPT AutoRewrite Plugin is a powerful tool that leverages the OpenAI GPT-3.5 architecture to automatically rewrite draft articles and publish them on your WordPress website. This plugin is designed to save you time and effort by generating high-quality content with the help of advanced natural language processing.
