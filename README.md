@@ -78,6 +78,11 @@ We welcome contributions from the community to improve the functionality and fea
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Sponsors
+
+[![Cloudblast.io](https://cloudblast.io/img/logo-icon.193cf13e.svg)](https://cloudblast.io)
+
+
 ---
 
 *Disclaimer: The ChatGPT AutoRewrite Plugin uses the OpenAI GPT-3.5 architecture. Please review the OpenAI terms of service and usage policies before using this plugin. The plugin's developers are not responsible for any misuse of the AI or any violations of OpenAI's policies.*
