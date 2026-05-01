@@ -80,8 +80,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Sponsors
 
-[![Cloudblast.io](https://cloudblast.io/img/logo-icon.193cf13e.svg)](https://cloudblast.io)
-
+[![Cloudblast.io - Cloud VM Hosting](https://cloudblast.io/_nuxt/logo-icon.DmhfkCLY.svg)](https://cloudblast.io)
 
 ---
 
